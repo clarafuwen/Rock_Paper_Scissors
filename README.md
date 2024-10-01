@@ -1,0 +1,1 @@
+This is a review practice for Javascript basics that implements a Rock, Paper, Scissors game through console interaction between a human player and the computer.
